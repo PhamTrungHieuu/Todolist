@@ -1,0 +1,24 @@
+li {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 30px;
+    align-items: center;
+    padding: 5px 10px;
+    margin: 0 auto;
+}
+
+.Delbtn {
+    background-color: rgb(228, 233, 236);
+    outline: none;
+    border: 1px solid lightblue;
+    border-radius: 3px;
+    align-items: center;
+}
+.Delbtn:hover{
+    background-color: red;
+}
+.bi {
+    background-size: contain;
+}
